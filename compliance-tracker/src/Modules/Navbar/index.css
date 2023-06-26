@@ -1,0 +1,39 @@
+.navbar{
+    display: flex;
+    border-bottom : 1px solid #e1e6ef; 
+    height: 61px;
+}
+.complianceTrackerPhoto{
+    height: 20px;
+    width:300px;
+    margin-top: 23px;
+    margin-left: 20px;
+}
+.logoDiv{
+    padding-top:10px;
+    border-right : 1px solid #e1e6ef; 
+    padding-right: 20px;
+}
+.logoPhoto{
+    margin-bottom: 10px;
+    margin-left: 30px;
+    width: 183.75px;
+    height: 42px;
+}
+.complianceTrackerDiv{
+    width: 1000px;
+}
+.welcome{
+    color: rgb(89, 92, 95);
+}
+.profileCircle{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: rgb(170, 165, 165);
+    padding-top: 12px;
+    padding-left: 12px;
+    margin-top: 10px;
+    margin-left: 8px;
+    color:white
+}
